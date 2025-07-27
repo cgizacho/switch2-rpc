@@ -6,5 +6,10 @@ This tool was made by me due to the Nintendo API being off-limits now, and no wa
 It's use is for you to have templates for Switch games, so you don't have to fill it out on some random local RPC tool.
 
 ## Usage
+1. Run the exe. The games I have provided myself are Mario Kart World, Splatoon 3, and the HOME Menu.
+
 You can add your own files into the exe by editing the .py (and using it from there, or alternatively compiling it again yourself).
 Please note that you will need to make your own [Discord Application](https://discord.com/developers/applications) for each game and use that client ID to display the game's name.
+
+
+Contact me on discord @heart2zara if you need assistance.
